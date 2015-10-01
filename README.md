@@ -1,6 +1,6 @@
 # web-app-template
 A minimal starter template for ES6 javascript web application with gulp and jspm.
-This template should work equally well on Windows, Mac and Linux.
+This template should work equally well wether you develop on Windows, Mac and Linux.
 
 ##Computer wide setup
 You need to do this once on your dev-machine. (Safe to do multiple times)
