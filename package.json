@@ -1,0 +1,40 @@
+{
+  "name": "web-app-template",
+  "version": "1.0.0",
+  "description": "A template for new web applications",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.9.7",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "gulp-plumber": "^1.0.1",
+    "gulp-qunit": "^1.2.1",
+    "require-dir": "^0.3.0",
+    "vinyl-paths": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "SteveSanderson/knockout-es5": "github:SteveSanderson/knockout-es5@^0.3.0",
+      "SteveSanderson/knockout-projections": "github:SteveSanderson/knockout-projections@^1.1.0",
+      "SteveSanderson/knockout.mapping": "github:SteveSanderson/knockout.mapping@^2.4.1",
+      "jquery": "github:components/jquery@^2.1.4",
+      "knockout": "github:knockout/knockout@^3.3.0",
+      "q": "npm:q@^2.0.3"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.1.13",
+      "babel-runtime": "npm:babel-runtime@^5.1.13",
+      "core-js": "npm:core-js@^0.9.4"
+    }
+  }
+}
