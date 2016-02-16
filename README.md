@@ -28,7 +28,7 @@ Do this if after you cloned/checked out a project, or if there are missing scrip
 This is how you add a new JavaScript library to a project.
 - Open command prompt in the web project folder in the filesystem
   - For npm run `npm install npm_lib_to_inst --save` (Replace npm_lib_to_inst with the name of the new reference)
-  - For bower run `jspm install jspm_lib_to_inst --save` (Replace bower_lib_to_inst with the name of the new reference)
+  - For jspm run `jspm install jspm_lib_to_inst --save` (Replace jspm_lib_to_inst with the name of the new reference)
 
 ##Running the website on your dev-computer
 - Open command prompt in the web project folder in the filesystem
