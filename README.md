@@ -1,4 +1,4 @@
-# web-app-template
+# web-app-template-1
 A minimal starter template for ES6 javascript web application with knockoutjs, gulp and jspm.
 This template should work equally well wether you develop on Windows, Mac and Linux.
 
